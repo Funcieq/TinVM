@@ -1,0 +1,10 @@
+.zig-cache/
+zig-out/
+
+# Local tools and credentials
+.agents/
+.codex/
+.aws/
+.env
+.env.*
+!.env.example
