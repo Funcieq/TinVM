@@ -1,5 +1,7 @@
 .zig-cache/
 zig-out/
+build/
+/TinVM
 
 # Local tools and credentials
 .agents/
